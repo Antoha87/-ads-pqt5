@@ -1,0 +1,9 @@
+Total amount of insertions: 4 
+Period 1: 
+BEGIN: 0 minutes 42 seconds, END: 1 minutes 21 seconds 
+Period 2: 
+BEGIN: 1 minutes 49 seconds, END: 2 minutes 1 seconds 
+Period 3: 
+BEGIN: 2 minutes 12 seconds, END: 2 minutes 24 seconds 
+Period 4: 
+BEGIN: 3 minutes 14 seconds, END: 3 minutes 17 seconds 

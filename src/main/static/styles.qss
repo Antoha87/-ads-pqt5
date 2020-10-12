@@ -1,0 +1,17 @@
+QStartWindow {
+    width: 1920px;
+    height: 1080px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 38.02%, #000000 67.21%, rgba(0, 0, 0, 0) 100%);
+    opacity:0.7;
+}
+
+QPushButton {
+    position: absolute;
+    width: 370px;
+    height: 75px;
+    left: 775px;
+    top: 677px;
+    background: rgba(30, 108, 147, 0.2);
+    border: 1px solid #1E6C93;
+    border-radius:10px;
+}
